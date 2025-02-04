@@ -1,2 +1,2 @@
 # Gene-Sequencer-Project
-Project 4 for CSE 231 at Michigan State University Spring Semester 2024 
+Checks to make sure the value is valid. Generates a random population of 100 with target length. Determines the 2 best individuals in random groups of 5. Mutates the 2 best individuals. Crosses the 2 individuals at a random point. Determines their fitness values. If fitness = 1 loop stops, else a new generation is created. A new population is created using the most fit individuals. Program ends after 200 generations or the target is reached.
